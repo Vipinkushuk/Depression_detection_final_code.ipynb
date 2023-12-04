@@ -1,4 +1,3 @@
-
 # Depression Detection Using EEG Signals
 - Dataset for Brain signals.
 - Using KNN, CNN, RNN, ANN, SVM, Random Forest, XGB, GNB Classifier.
